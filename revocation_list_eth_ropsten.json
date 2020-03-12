@@ -6,7 +6,7 @@
   "revokedAssertions": [
     {
       "id": "urn:uuid:fad1703a-d0c6-444d-b462-4a72d24d1109",
-      "revocationReason": "Test revoke eth ropsten certification."
+      "revocationReason": "Test revoke certification."
     }
   ]
 }
